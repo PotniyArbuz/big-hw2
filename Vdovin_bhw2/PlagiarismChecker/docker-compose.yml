@@ -1,0 +1,75 @@
+services:
+  apigateway:
+    build:
+      context: ./ApiGateway
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    depends_on:
+      - file-storing-service
+      - file-analysis-service
+    networks:
+      - app-network
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+
+  file-storing-service:
+    build:
+      context: ./FileStoringService
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8081"
+    depends_on:
+      - postgres-file-storing
+    networks:
+      - app-network
+    environment:
+      - ASPNETCORE_URLS=http://+:8081
+
+  file-analysis-service:
+    build:
+      context: ./FileAnalysisService
+      dockerfile: Dockerfile
+    ports:
+      - "8082:8082"
+    depends_on:
+      - postgres-file-analysis
+      - file-storing-service
+    networks:
+      - app-network
+    environment:
+      - ASPNETCORE_URLS=http://+:8082
+
+  postgres-file-storing:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: filedb
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata-file-storing:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  postgres-file-analysis:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: analysisdb
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5435:5432"
+    volumes:
+      - pgdata-file-analysis:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  pgdata-file-storing:
+  pgdata-file-analysis:

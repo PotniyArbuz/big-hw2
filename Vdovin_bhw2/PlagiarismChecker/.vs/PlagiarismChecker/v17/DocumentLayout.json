@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\apigateway\\clients\\filestoringclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\clients\\filestoringclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\apigateway\\clients\\fileanalysisclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\clients\\fileanalysisclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\apigateway\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE62027-931C-461A-BB55-9C4E0633CDAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\fileanalysisservice\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\fileanalysisservice\\models\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\models\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\fileanalysisservice\\services\\filestoringclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\services\\filestoringclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\fileanalysisservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607187C-27EE-4E76-81E6-8E5C54914865}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\filestoringservice\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\filestoringservice\\data\\filestoringdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\data\\filestoringdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\filestoringservice\\models\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\models\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\filestoringservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FD27C4-583E-491C-8997-B934F4435786}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\vdovi\\desktop\\\u043A\u043F\u043E\\b2\\plagiarismchecker\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-25T19:06:23.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:24:46.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T19:01:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T19:01:09.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:56:19.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAnalysisClient.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Clients\\FileAnalysisClient.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Clients\\FileAnalysisClient.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Clients\\FileAnalysisClient.cs",
+              "RelativeToolTip": "ApiGateway\\Clients\\FileAnalysisClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:56:50.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileStoringClient.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Clients\\FileStoringClient.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Clients\\FileStoringClient.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\ApiGateway\\Clients\\FileStoringClient.cs",
+              "RelativeToolTip": "ApiGateway\\Clients\\FileStoringClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:56:40.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnalysisController.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "RelativeToolTip": "FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:51:29.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnalysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Models\\AnalysisResult.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Models\\AnalysisResult.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Models\\AnalysisResult.cs",
+              "RelativeToolTip": "FileAnalysisService\\Models\\AnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:59:54.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileStoringClient.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Services\\FileStoringClient.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Services\\FileStoringClient.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Services\\FileStoringClient.cs",
+              "RelativeToolTip": "FileAnalysisService\\Services\\FileStoringClient.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:00:14.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\appsettings.json",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\appsettings.json",
+              "RelativeToolTip": "FileAnalysisService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T19:03:00.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Dockerfile",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Dockerfile",
+              "RelativeToolTip": "FileAnalysisService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T19:03:05.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Program.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Program.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileAnalysisService\\Program.cs",
+              "RelativeToolTip": "FileAnalysisService\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:27:02.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "FileStoringService\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:57:41.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileStoringDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Data\\FileStoringDbContext.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Data\\FileStoringDbContext.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Data\\FileStoringDbContext.cs",
+              "RelativeToolTip": "FileStoringService\\Data\\FileStoringDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:58:04.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Models\\FileEntity.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Models\\FileEntity.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Models\\FileEntity.cs",
+              "RelativeToolTip": "FileStoringService\\Models\\FileEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:58:23.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\appsettings.json",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\appsettings.json",
+              "RelativeToolTip": "FileStoringService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T19:02:07.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileStoringService\\Dockerfile",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Dockerfile",
+              "RelativeToolTip": "FileStoringService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T19:02:13.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Program.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Program.cs",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\FileStoringService\\Program.cs",
+              "RelativeToolTip": "FileStoringService\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:34:15.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\vdovi\\Desktop\\\u041A\u041F\u041E\\b2\\PlagiarismChecker\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T19:06:20.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
